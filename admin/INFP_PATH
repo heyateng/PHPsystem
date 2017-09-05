@@ -1,0 +1,1 @@
+<?php header('Content-Type:text/html;charset=utf-8'); ?><h1>数据库连接错误错误(数据库无法连接)</h1><hr><h3>数据库无法连接请检查配置信息是否正确。错误代码：Access denied for user 'root'@'localhost' (using password: YES)<a onclick='history.back(-1);'>我知道了</a></h3>

@@ -1,0 +1,68 @@
+
+body{
+    font: 14px/1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+    background: rgb(35,37,43);
+    color:#9d9d9d;
+}
+.bg-panel-b{
+	background: rgb(33,33,33);
+}
+.panel{
+	border:1px solid #333333;
+	background: rgb(33,33,33);
+	border-radius: 5px;
+	
+}
+.panel .panel-body{
+
+}
+.form-control {
+	background-color: rgb(22,22,22);
+	border:1px solid #333333;
+}
+.btn-default {
+	border:1px solid #555555;
+	background: rgb(33,33,33);
+	color: #9d9d9d;
+}
+
+.dropdown-menu {
+	background-color: #333333;
+}
+
+.dropdown-menu .divider {
+	background-color: #444;
+}
+.dropdown-menu>li>a {
+	color:#9d9d9d;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	text-align: center;
+}
+.breadcrumb {
+	background-color: #333333;
+}
+.navbar{
+	margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+//============================================================================
+#sidebar{
+	padding-left: 0;
+	padding-right: 10px;
+}
+#main{
+	padding-right: 0;
+	padding-left: 10px;
+}
+#breadcrumb{
+	padding:8px 400px;
+	background-color: #333333;
+}
